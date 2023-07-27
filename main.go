@@ -1,0 +1,1 @@
+Neki GO kod.
